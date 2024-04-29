@@ -3,7 +3,7 @@
 
 This repository contains the code for our sleek and modern promotional website. Dive in to explore our latest products and immerse yourself in a world of creativity and elegance.
 
-#Features:
+###Features:
 🎨 Stunning Design: Experience the beauty of design with our carefully crafted HTML and CSS.
 
 🚀 Smooth Animations: Glide through the website effortlessly with smooth scrolling and animations powered by Locomotive Scroll and GSAP libraries.
