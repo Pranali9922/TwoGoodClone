@@ -16,8 +16,7 @@ Welcome to our sleek and modern promotional website, your gateway to a world of 
 
 **Experience it Yourself:**
 
-🔗 **[Explore Our Demo]()[*](https://pranali9922.github.io/TwoGoodClone/)*
-
+🔗 **[Explore Our Demo]([)](https://pranali9922.github.io/TwoGoodClone/)
 **Let's Connect:**
 
 Have questions, feedback, or just want to say hi? We're here for you! 😊 Reach out to us anytime – we'd love to hear from you!
