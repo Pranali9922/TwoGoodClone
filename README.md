@@ -14,7 +14,7 @@ Welcome to our sleek and modern promotional website, your gateway to a world of 
 
 🖱️ **Custom Cursor:** Elevate your browsing experience with a custom cursor that adds a touch of flair and uniqueness.
 
-**Live Link:**
+**Demo Link:**
 
 🔗 **[Explore Our Demo](https://pranali9922.github.io/TwoGoodClone/)]
 
